@@ -1,0 +1,31 @@
+
+
+install_app:
+    server: http://localhost:4723/wd/hub
+    implicitly_wait: 10
+    caps:
+      android:
+        platformName: android
+        deviceName: 1181cef8
+        udid: 1181cef8
+        appPackage: com.zhaoonline.www
+        appActivity: .ui.SplashActivity
+        autoGrantPermissions: true
+
+
+restart_app:
+    server: http://localhost:4723/wd/hub
+    implicitly_wait: 10
+    caps:
+      android:
+        platformName: android
+        deviceName: 1181cef8
+        udid: 1181cef8
+        appPackage: com.zhaoonline.www
+        appActivity: .ui.SplashActivity
+        autoGrantPermissions: true
+        noReset: true
+        unicodeKeyboard: true
+        resetKeyboard: true
+
+platform: android

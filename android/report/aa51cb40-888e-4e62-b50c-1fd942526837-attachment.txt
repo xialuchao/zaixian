@@ -1,0 +1,5 @@
+************************
+<appium.webdriver.webdriver.WebDriver (session="4f1e1c8e-635e-452a-a3b7-c868a8f184be")>
+<class 'tuple'>
+************************
+<appium.webdriver.webdriver.WebDriver (session="4f1e1c8e-635e-452a-a3b7-c868a8f184be")>

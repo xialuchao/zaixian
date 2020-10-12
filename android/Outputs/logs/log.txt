@@ -1,0 +1,614 @@
+2020-09-29 15:07:48,106 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-09-29 15:07:48,201 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-09-29 15:07:49,904 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-09-29 15:07:51,093 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-09-29 15:07:51,704 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-09-29 15:08:02,531 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_back_btn')
+2020-09-29 15:08:06,482 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-09-29 15:08:06,701 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-09-29 15:08:10,722 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-09-29 15:08:10,852 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 11:03:30,706 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="110f109b-a877-42b6-ae7a-fd3693ed0648")>
+2020-10-09 11:03:30,708 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 11:03:42,783 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 11:03:47,287 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 11:03:57,420 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 11:03:58,672 INFO MainPage.py logoutAccount [87] tear down 退出登陆 失败：Message: An element could not be located on the page using the given search parameters.
+
+2020-10-09 13:27:22,120 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="7ecca209-9db6-477a-ae42-6d9553bc1852")>
+2020-10-09 13:27:22,123 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:28:13,259 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="0e5891f4-d81c-466c-b81b-5d9e07572cea")>
+2020-10-09 13:28:13,262 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:28:46,489 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="0e5891f4-d81c-466c-b81b-5d9e07572cea")>
+2020-10-09 13:28:46,491 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 13:28:46,580 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 13:28:48,278 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 13:28:49,430 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 13:28:50,180 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-10-09 13:29:00,382 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_back_btn')
+2020-10-09 13:29:04,325 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:29:05,157 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 13:29:09,267 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 13:29:09,436 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 13:35:05,832 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="72e722dc-5203-475d-aa84-f0bb80d5ea6d")>
+2020-10-09 13:35:05,838 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:35:29,300 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="72e722dc-5203-475d-aa84-f0bb80d5ea6d")>
+2020-10-09 13:35:29,301 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 13:35:29,395 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 13:35:31,541 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 13:35:32,678 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 13:35:53,234 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 13:35:54,028 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 13:35:56,980 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 13:36:01,049 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 13:36:01,188 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 13:36:04,847 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 13:36:13,027 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:36:23,523 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 13:36:24,783 INFO MainPage.py logoutAccount [87] tear down 退出登陆 失败：Message: An element could not be located on the page using the given search parameters.
+
+2020-10-09 13:38:12,280 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="2abbcdab-8877-44b2-84ca-cd80e063309d")>
+2020-10-09 13:38:12,285 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:38:15,609 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="2abbcdab-8877-44b2-84ca-cd80e063309d")>
+2020-10-09 13:38:15,611 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 13:38:17,008 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 13:38:18,670 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 13:38:19,894 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 13:38:40,362 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 13:38:41,153 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 13:38:44,099 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 13:38:49,196 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 13:38:49,326 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 13:38:53,216 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 13:39:05,468 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:39:17,527 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 13:39:19,167 INFO MainPage.py logoutAccount [87] tear down 退出登陆 失败：Message: An element could not be located on the page using the given search parameters.
+
+2020-10-09 13:49:02,859 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ec27ebb7-aa35-42a7-adec-df886052f0e3")>
+2020-10-09 13:49:02,862 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:49:07,099 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ec27ebb7-aa35-42a7-adec-df886052f0e3")>
+2020-10-09 13:49:07,101 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 13:49:07,260 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 13:49:08,947 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 13:49:10,143 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 13:49:30,654 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 13:49:31,402 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 13:49:36,304 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 13:49:40,421 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 13:49:40,516 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 13:49:44,203 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 13:49:56,228 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 13:50:07,553 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 13:50:08,913 INFO MainPage.py logoutAccount [87] tear down 退出登陆 失败：Message: An element could not be located on the page using the given search parameters.
+
+2020-10-09 14:15:19,004 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="c859ff68-a2f4-4f3a-b4ea-e264093699e9")>
+2020-10-09 14:15:19,007 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:15:38,028 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="c859ff68-a2f4-4f3a-b4ea-e264093699e9")>
+2020-10-09 14:15:38,029 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:15:38,149 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:15:39,796 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:15:40,926 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:16:01,514 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 14:16:02,256 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 14:16:05,183 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 14:16:10,292 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 14:16:10,380 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 14:16:14,074 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 14:16:25,504 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:16:32,141 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:16:35,495 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 14:16:35,667 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 14:21:21,659 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="9e9b503a-ffbc-401b-8b23-3adffa39c6f7")>
+2020-10-09 14:21:21,663 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:21:28,031 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="9e9b503a-ffbc-401b-8b23-3adffa39c6f7")>
+2020-10-09 14:21:28,032 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:21:28,128 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:21:29,810 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:21:30,946 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:21:31,590 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-10-09 14:21:42,118 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_back_btn')
+2020-10-09 14:21:46,063 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:21:46,342 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:21:51,399 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 14:21:51,577 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 14:22:26,694 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="abb2f03a-c89a-4047-a6e6-4cabaac035b0")>
+2020-10-09 14:22:26,697 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:22:29,674 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="abb2f03a-c89a-4047-a6e6-4cabaac035b0")>
+2020-10-09 14:22:29,675 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:22:31,071 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:22:32,706 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:22:33,857 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:22:34,494 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-10-09 14:22:45,178 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_back_btn')
+2020-10-09 14:22:49,121 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:22:49,380 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:22:53,354 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 14:22:53,383 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'btn_logout_set')
+2020-10-09 14:22:53,396 INFO MainPage.py logoutAccount [92] tear down 退出登陆 失败：Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+2020-10-09 14:32:51,158 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1df91366-400a-45ce-8815-f70d11207fe9")>
+2020-10-09 14:32:51,160 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:32:57,604 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1df91366-400a-45ce-8815-f70d11207fe9")>
+2020-10-09 14:32:57,606 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:32:57,757 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:32:59,732 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:33:00,882 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:33:01,575 INFO BasePage.py elementExists [71] 判断元素是否存在：('id', 'm_back_btn')元素存在
+2020-10-09 14:33:01,575 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-10-09 14:33:20,746 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 14:33:27,367 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 14:33:29,421 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 14:33:34,465 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 14:33:34,613 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 14:33:38,272 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 14:33:44,373 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_bidding_rb')
+2020-10-09 14:33:54,072 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:33:57,120 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:34:07,205 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_tool_set_btn')
+2020-10-09 14:34:07,807 INFO MainPage.py logoutAccount [92] tear down 退出登陆 失败：Message: An element could not be located on the page using the given search parameters.
+
+2020-10-09 14:44:40,815 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="dba6ee23-027b-48bc-a415-56bf8c9a6437")>
+2020-10-09 14:44:40,816 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:44:51,748 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="dba6ee23-027b-48bc-a415-56bf8c9a6437")>
+2020-10-09 14:44:51,749 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:44:51,887 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:44:53,531 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:44:54,745 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:45:05,700 INFO BasePage.py elementExists [74] 判断元素是否存在：('id', 'm_back_btn')元素不存在
+2020-10-09 14:45:14,872 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 14:45:15,588 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 14:45:18,649 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 14:45:21,509 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 14:45:21,634 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 14:45:25,372 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 14:45:31,675 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_bidding_rb')
+2020-10-09 14:45:49,583 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:45:52,598 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:45:55,918 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 14:45:56,107 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 14:47:50,964 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1036afab-505f-4eef-8aa3-44462b8a64e2")>
+2020-10-09 14:47:50,967 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:48:00,779 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1036afab-505f-4eef-8aa3-44462b8a64e2")>
+2020-10-09 14:48:00,780 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:48:00,915 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:48:02,602 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:48:03,727 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:48:04,379 INFO BasePage.py elementExists [71] 判断元素是否存在：('id', 'm_back_btn')元素存在
+2020-10-09 14:48:04,380 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-10-09 14:48:14,566 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_back_btn')
+2020-10-09 14:48:18,552 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:48:18,785 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:48:21,826 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 14:48:21,963 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 14:49:14,336 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ff52e604-d706-4f31-a8b0-018d41c89904")>
+2020-10-09 14:49:14,338 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:49:27,155 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:49:27,202 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 14:49:27,226 INFO MainPage.py logoutAccount [92] tear down 退出登陆 失败：Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+2020-10-09 14:51:02,138 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="fbdd9d29-ec8e-4fe9-bc73-e0b6d391a509")>
+2020-10-09 14:51:02,141 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:51:18,235 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="fbdd9d29-ec8e-4fe9-bc73-e0b6d391a509")>
+2020-10-09 14:51:18,237 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 14:51:18,448 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 14:51:20,105 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 14:51:21,251 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 14:51:32,783 INFO BasePage.py elementExists [74] 判断元素是否存在：('id', 'm_back_btn')元素不存在
+2020-10-09 14:51:42,136 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_hunt')
+2020-10-09 14:51:42,942 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_shopping_rb')
+2020-10-09 14:51:45,914 INFO BasePage.py find [39] 在页面查找元素:('id', 'serach_img_btn')
+2020-10-09 14:51:50,974 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_txt')
+2020-10-09 14:51:51,100 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_search_et')
+2020-10-09 14:51:54,799 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='邮票类']")
+2020-10-09 14:52:00,921 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_bidding_rb')
+2020-10-09 14:52:20,833 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 14:52:24,753 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 14:52:27,190 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 14:52:27,373 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 15:57:01,621 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="2751d180-7882-41f8-908c-963e151b3a84")>
+2020-10-09 15:57:01,646 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 15:57:13,203 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="2751d180-7882-41f8-908c-963e151b3a84")>
+2020-10-09 15:57:13,206 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 15:57:14,657 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 15:57:16,352 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 15:57:17,494 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 15:57:18,119 INFO BasePage.py elementExists [71] 判断元素是否存在：('id', 'm_back_btn')元素存在
+2020-10-09 15:57:18,119 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_back_btn')
+2020-10-09 15:57:28,597 INFO BasePage.py find [43] 页面元素未找到,如图('id', 'm_back_btn')
+2020-10-09 15:57:29,554 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 15:57:30,504 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 15:57:32,716 INFO BasePage.py swipes [81] 向上滑一次
+2020-10-09 15:57:33,907 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 15:57:34,052 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:00:10,594 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="10935824-b392-43de-a77b-b736a8cf429b")>
+2020-10-09 16:00:10,596 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:00:43,843 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="10935824-b392-43de-a77b-b736a8cf429b")>
+2020-10-09 16:00:43,848 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:00:44,008 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:00:45,670 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:00:46,808 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:00:50,301 INFO BasePage.py elementExists [73] 判断元素是否存在：('id', 'm_back_btn')元素不存在
+2020-10-09 16:00:50,390 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:00:51,442 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:00:53,487 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:00:54,656 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:00:54,813 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:03:31,106 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="368582bd-0a1d-4da9-b998-494dd0c68d60")>
+2020-10-09 16:03:31,107 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:04:04,306 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="368582bd-0a1d-4da9-b998-494dd0c68d60")>
+2020-10-09 16:04:04,311 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:04:04,471 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:04:06,130 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:04:07,257 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:04:07,900 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:04:09,911 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:04:13,043 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:04:14,190 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:04:14,366 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:05:32,135 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="90d85e08-71c1-4277-aae0-3b5d6e7673bf")>
+2020-10-09 16:05:32,136 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:06:04,404 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="90d85e08-71c1-4277-aae0-3b5d6e7673bf")>
+2020-10-09 16:06:04,414 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:06:04,552 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:06:06,256 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:06:07,387 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:06:08,075 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:06:11,058 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:06:13,259 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:06:14,426 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:06:14,611 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:07:19,397 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="454a204b-0e14-40a6-b58d-4e67a2111968")>
+2020-10-09 16:07:19,398 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:07:38,306 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="454a204b-0e14-40a6-b58d-4e67a2111968")>
+2020-10-09 16:07:38,318 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:07:38,459 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:07:40,140 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:07:41,279 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:07:41,924 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:08:22,611 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:08:55,227 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:08:56,392 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:08:56,584 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:09:47,817 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="6860b6e5-c4dc-477d-97db-853635611c94")>
+2020-10-09 16:09:47,818 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:09:58,504 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 16:10:39,930 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ccec8e76-80f7-433f-bb0f-5aaa2e3d974a")>
+2020-10-09 16:10:39,931 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:10:59,093 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ccec8e76-80f7-433f-bb0f-5aaa2e3d974a")>
+2020-10-09 16:10:59,105 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:10:59,295 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:11:00,961 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:11:02,105 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:11:02,696 INFO MinePage.py enterMyAttention [18] 确保进入的页面是我的页面，点击我的
+2020-10-09 16:11:02,811 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:11:06,774 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:11:09,012 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:11:10,211 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:11:10,397 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:16:35,175 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="c4a4d7d2-a047-4f14-b3c0-fb38a95a3e68")>
+2020-10-09 16:16:35,176 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:17:08,457 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="c4a4d7d2-a047-4f14-b3c0-fb38a95a3e68")>
+2020-10-09 16:17:08,461 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:17:08,557 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:17:10,268 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:17:11,416 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:17:12,429 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:17:14,902 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:17:18,240 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:17:19,433 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:17:19,603 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:18:59,394 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d460aa1f-adb9-49b2-99fa-8d2b5a40bb8d")>
+2020-10-09 16:18:59,395 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:19:32,772 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d460aa1f-adb9-49b2-99fa-8d2b5a40bb8d")>
+2020-10-09 16:19:32,779 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:19:32,910 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:19:34,534 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:19:35,687 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:19:36,274 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d460aa1f-adb9-49b2-99fa-8d2b5a40bb8d")>
+2020-10-09 16:19:36,440 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:19:38,770 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 16:19:41,716 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:19:42,909 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 16:19:43,113 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-09 16:20:13,485 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ea4bf800-a32a-44fe-9c7a-6cf853b1185d")>
+2020-10-09 16:20:13,487 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:20:38,536 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ea4bf800-a32a-44fe-9c7a-6cf853b1185d")>
+2020-10-09 16:20:38,543 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:20:38,714 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:20:40,381 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:20:41,549 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:20:42,103 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ea4bf800-a32a-44fe-9c7a-6cf853b1185d")>
+2020-10-09 16:20:42,104 INFO MinePage.py enterMyAttention [18] 确保进入的页面是我的页面，点击我的
+2020-10-09 16:20:42,104 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:20:45,331 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:20:45,348 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 16:23:36,186 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="de965c9a-d1ca-4e4a-9964-a039bbafb3f7")>
+2020-10-09 16:23:36,187 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:24:00,189 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="de965c9a-d1ca-4e4a-9964-a039bbafb3f7")>
+2020-10-09 16:24:00,190 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:24:00,315 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:24:02,026 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:24:03,147 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:24:03,731 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="de965c9a-d1ca-4e4a-9964-a039bbafb3f7")>
+2020-10-09 16:24:03,735 INFO MinePage.py enterMyAttention [18] 确保进入的页面是我的页面，点击我的
+2020-10-09 16:24:03,735 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:24:13,931 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'm_to_other_btn')
+2020-10-09 16:32:45,482 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="617d6370-c551-469d-9d60-3dac448772ef")>
+2020-10-09 16:32:45,483 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:33:01,434 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="617d6370-c551-469d-9d60-3dac448772ef")>
+2020-10-09 16:33:01,435 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:33:01,599 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:33:03,219 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:33:04,349 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:33:05,974 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="617d6370-c551-469d-9d60-3dac448772ef")>
+2020-10-09 16:33:05,980 INFO MinePage.py enterMyAttention [18] 确保进入的页面是我的页面，点击我的
+2020-10-09 16:33:05,981 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:33:16,554 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'm_to_other_btn')
+2020-10-09 16:36:20,841 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="5be1b8bf-03eb-48ef-8d70-b0190ff9577a")>
+2020-10-09 16:36:20,842 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:36:54,017 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="5be1b8bf-03eb-48ef-8d70-b0190ff9577a")>
+2020-10-09 16:36:54,018 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:36:54,672 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:36:56,348 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:36:57,500 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:36:59,139 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="5be1b8bf-03eb-48ef-8d70-b0190ff9577a")>
+2020-10-09 16:36:59,144 INFO MinePage.py enterMyAttention [20] 点击 我的，关注
+2020-10-09 16:36:59,145 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-09 16:37:01,536 INFO MinePage.py enterMyAttention [22] 点击 关注的 竞买
+2020-10-09 16:37:01,537 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-09 16:37:04,581 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:37:05,905 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:37:07,241 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:37:08,533 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:37:09,791 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:37:11,048 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:37:12,307 INFO MinePage.py enterMyAttention [30] 点击 筛选 
+2020-10-09 16:37:12,308 INFO BasePage.py find [39] 在页面查找元素:('id', 'id/m_other_btn')
+2020-10-09 16:37:22,747 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'id/m_other_btn')
+2020-10-09 16:38:40,707 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d8f00968-03f3-41ab-bd58-a87e15972808")>
+2020-10-09 16:38:40,708 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:39:13,873 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d8f00968-03f3-41ab-bd58-a87e15972808")>
+2020-10-09 16:39:13,874 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:39:13,967 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:39:15,667 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:39:16,805 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:39:18,393 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d8f00968-03f3-41ab-bd58-a87e15972808")>
+2020-10-09 16:39:18,399 INFO MinePage.py enterMyAttention [20] 点击 我的，关注
+2020-10-09 16:39:18,400 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-09 16:39:23,171 INFO MinePage.py enterMyAttention [22] 点击 关注的 竞买
+2020-10-09 16:39:23,172 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-09 16:39:23,774 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:39:25,142 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:39:26,493 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:39:27,846 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:39:29,114 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:39:30,411 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:39:31,605 INFO MinePage.py enterMyAttention [30] 点击 筛选 
+2020-10-09 16:39:31,606 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_other_btn')
+2020-10-09 16:39:31,857 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:42:08,566 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ca6f0a3a-a822-4ae1-a1b5-196031a544c6")>
+2020-10-09 16:42:08,567 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:42:23,119 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ca6f0a3a-a822-4ae1-a1b5-196031a544c6")>
+2020-10-09 16:42:23,121 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 16:42:23,256 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 16:42:24,954 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 16:42:26,058 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 16:42:27,645 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="ca6f0a3a-a822-4ae1-a1b5-196031a544c6")>
+2020-10-09 16:42:27,651 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-09 16:42:27,651 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-09 16:42:29,180 INFO MinePage.py enterMyAttention [30] 点击 关注的 竞买
+2020-10-09 16:42:29,180 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-09 16:42:32,180 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:42:33,573 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:42:34,881 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:42:36,179 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:42:37,404 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:42:38,702 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:42:39,904 INFO MinePage.py enterMyAttention [38] 点击 筛选 
+2020-10-09 16:42:39,905 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_other_btn')
+2020-10-09 16:42:41,139 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 16:42:42,588 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 16:42:43,964 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 16:42:54,153 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-09 17:02:13,112 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="12bcef84-a3f5-4ea3-92fc-7ffb2e91cd03")>
+2020-10-09 17:02:13,113 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 17:02:38,208 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="12bcef84-a3f5-4ea3-92fc-7ffb2e91cd03")>
+2020-10-09 17:02:38,208 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-09 17:02:38,297 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-09 17:02:39,934 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-09 17:02:41,043 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-09 17:02:42,690 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="12bcef84-a3f5-4ea3-92fc-7ffb2e91cd03")>
+2020-10-09 17:02:42,695 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-09 17:02:42,696 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-09 17:02:45,028 INFO MinePage.py enterMyAttention [30] 点击 关注的 竞买
+2020-10-09 17:02:45,029 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-09 17:02:48,218 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:02:49,644 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:02:50,904 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:02:52,229 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:02:53,491 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:02:54,756 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:02:56,004 INFO MinePage.py enterMyAttention [38] 点击 筛选 
+2020-10-09 17:02:56,005 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_other_btn')
+2020-10-09 17:02:57,258 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:02:58,679 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:03:00,976 INFO MinePage.py enterMyAttention [44] 点击 关注的 购物
+2020-10-09 17:03:00,977 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='购物']")
+2020-10-09 17:03:01,597 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:03:02,829 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:03:04,117 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:03:05,348 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:03:06,723 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:03:07,960 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-09 17:03:14,613 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-09 17:03:16,208 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-09 17:03:19,317 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-09 17:03:20,516 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-09 17:03:20,703 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-12 10:53:15,849 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="a81615e8-a5fa-480f-a933-378a55b078e4")>
+2020-10-12 10:53:15,850 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 10:53:46,963 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="a81615e8-a5fa-480f-a933-378a55b078e4")>
+2020-10-12 10:53:46,965 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-12 10:53:47,159 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-12 10:53:48,815 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-12 10:53:49,985 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-12 10:53:51,576 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="a81615e8-a5fa-480f-a933-378a55b078e4")>
+2020-10-12 10:53:51,581 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-12 10:53:51,582 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-12 10:53:53,328 INFO MinePage.py enterMyAttention [30] 点击 关注的 竞买
+2020-10-12 10:53:53,329 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-12 10:53:56,579 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:53:57,935 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:53:59,237 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:54:00,534 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:01,824 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:03,032 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:04,256 INFO MinePage.py enterMyAttention [38] 点击 筛选 
+2020-10-12 10:54:04,256 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_other_btn')
+2020-10-12 10:54:06,546 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:54:07,985 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:10,370 INFO MinePage.py enterMyAttention [44] 点击 关注的 购物
+2020-10-12 10:54:10,371 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='购物']")
+2020-10-12 10:54:10,922 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:54:12,102 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:54:13,333 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:54:14,613 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:15,865 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:17,103 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 10:54:22,993 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 10:54:23,721 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-12 10:54:25,722 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 10:54:26,885 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-12 10:54:27,035 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-12 11:29:25,368 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="c06ab58d-8646-4447-b377-2a6922a29590")>
+2020-10-12 11:29:25,369 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 11:29:49,754 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="c06ab58d-8646-4447-b377-2a6922a29590")>
+2020-10-12 11:33:41,183 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="575a6b94-93c3-4d71-87a5-20c069108b14")>
+2020-10-12 11:33:41,183 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 11:33:57,829 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="575a6b94-93c3-4d71-87a5-20c069108b14")>
+2020-10-12 13:34:00,116 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1ddb474c-84db-4bb4-811c-236636a3c718")>
+2020-10-12 13:34:00,117 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:34:24,301 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1ddb474c-84db-4bb4-811c-236636a3c718")>
+2020-10-12 13:43:57,827 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="8fe08faa-299d-42e8-b543-1b1f19c06603")>
+2020-10-12 13:43:57,829 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:44:16,984 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="8fe08faa-299d-42e8-b543-1b1f19c06603")>
+2020-10-12 13:46:27,528 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1e6b4c9c-9fd6-4af5-a0ce-b2777f29a2d5")>
+2020-10-12 13:46:27,529 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:46:45,276 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="1e6b4c9c-9fd6-4af5-a0ce-b2777f29a2d5")>
+2020-10-12 13:51:10,096 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="e54adb09-82d6-4284-a110-5360c1ade041")>
+2020-10-12 13:51:10,097 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:51:33,972 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="e54adb09-82d6-4284-a110-5360c1ade041")>
+2020-10-12 13:51:34,143 INFO BasePage.py elementExists [70] 判断元素是否存在：('id', 'm_back_btn')元素存在
+2020-10-12 13:51:34,144 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="e54adb09-82d6-4284-a110-5360c1ade041")>
+2020-10-12 13:51:34,150 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-12 13:51:34,151 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-12 13:51:44,978 INFO BasePage.py find [42] 页面元素未找到,如图('xpath', "//*[@text='关注']")
+2020-10-12 13:51:46,058 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:52:04,262 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-12 13:52:15,292 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'm_tool_set_btn')
+2020-10-12 13:52:40,549 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="7429ab91-cb7f-4915-8251-4bf7d82bed83")>
+2020-10-12 13:52:40,550 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:53:04,449 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="7429ab91-cb7f-4915-8251-4bf7d82bed83")>
+2020-10-12 13:53:04,528 INFO BasePage.py elementExists [70] 判断元素是否存在：('id', 'm_back_btn')元素存在
+2020-10-12 13:53:04,528 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="7429ab91-cb7f-4915-8251-4bf7d82bed83")>
+2020-10-12 13:53:04,533 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-12 13:53:04,534 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-12 13:53:15,163 INFO BasePage.py find [42] 页面元素未找到,如图('xpath', "//*[@text='关注']")
+2020-10-12 13:53:15,901 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:53:16,496 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-12 13:56:06,504 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="0986e6e2-64e7-4207-9128-eab73dbd7889")>
+2020-10-12 13:56:06,505 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:56:40,022 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="0986e6e2-64e7-4207-9128-eab73dbd7889")>
+2020-10-12 13:56:40,093 INFO BasePage.py elementExists [70] 判断元素是否存在：('id', 'm_back_btn')元素存在
+2020-10-12 13:56:40,093 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_to_other_btn')
+2020-10-12 13:56:40,194 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_account_et')
+2020-10-12 13:56:42,344 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_pwd_et')
+2020-10-12 13:56:43,494 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_login_btn')
+2020-10-12 13:56:45,084 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="0986e6e2-64e7-4207-9128-eab73dbd7889")>
+2020-10-12 13:56:45,085 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-12 13:56:45,086 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-12 13:56:47,108 INFO MinePage.py enterMyAttention [30] 点击 关注的 竞买
+2020-10-12 13:56:47,109 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-12 13:56:50,265 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:56:51,658 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:56:52,994 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:56:54,310 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:56:55,630 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:56:56,904 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:56:58,092 INFO MinePage.py enterMyAttention [38] 点击 筛选 
+2020-10-12 13:56:58,093 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_other_btn')
+2020-10-12 13:56:59,557 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:57:00,975 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:57:03,335 INFO MinePage.py enterMyAttention [44] 点击 关注的 购物
+2020-10-12 13:57:03,336 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='购物']")
+2020-10-12 13:57:03,928 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:57:05,178 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:57:06,500 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:57:07,765 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:57:09,081 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:57:10,357 INFO BasePage.py swipes [89] 向下滑一次
+2020-10-12 13:57:16,873 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 13:57:17,503 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-12 13:57:19,514 INFO BasePage.py swipes [80] 向上滑一次
+2020-10-12 13:57:20,678 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-12 13:57:20,823 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-12 14:10:16,554 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="a2e91e7c-ca68-4ce0-8b9f-177a2cd5fdde")>
+2020-10-12 14:10:16,554 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:10:21,703 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="a2e91e7c-ca68-4ce0-8b9f-177a2cd5fdde")>
+2020-10-12 14:10:32,064 INFO BasePage.py elementExists [74] 判断元素是否存在：('id', 'm_back_btn')元素不存在，截图
+2020-10-12 14:10:32,877 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="a2e91e7c-ca68-4ce0-8b9f-177a2cd5fdde")>
+2020-10-12 14:10:32,879 INFO MinePage.py enterMyAttention [28] 点击 我的，关注
+2020-10-12 14:10:32,880 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='关注']")
+2020-10-12 14:10:33,940 INFO MinePage.py enterMyAttention [30] 点击 关注的 竞买
+2020-10-12 14:10:33,941 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='竞买']")
+2020-10-12 14:10:36,978 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:38,349 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:39,682 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:41,011 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:10:42,314 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:10:43,643 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:10:44,865 INFO MinePage.py enterMyAttention [38] 点击 筛选 
+2020-10-12 14:10:44,866 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_other_btn')
+2020-10-12 14:10:46,354 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:47,782 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:10:50,149 INFO MinePage.py enterMyAttention [44] 点击 关注的 购物
+2020-10-12 14:10:50,150 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='购物']")
+2020-10-12 14:10:50,784 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:52,076 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:53,320 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:10:54,581 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:10:55,923 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:10:57,245 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:11:02,679 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:11:04,175 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-12 14:11:05,487 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:11:06,687 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-12 14:11:06,869 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
+2020-10-12 14:28:33,966 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="506bfc8a-249a-4495-9cb9-87e3f5bd67c7")>
+2020-10-12 14:28:33,967 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:28:39,006 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="506bfc8a-249a-4495-9cb9-87e3f5bd67c7")>
+2020-10-12 14:28:49,280 INFO BasePage.py elementExists [74] 判断元素是否存在：('id', 'm_back_btn')元素不存在，截图
+2020-10-12 14:28:50,112 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="506bfc8a-249a-4495-9cb9-87e3f5bd67c7")>
+2020-10-12 14:28:50,114 INFO MinePage.py enterMyGet [58] 点击 我的 已得标
+2020-10-12 14:28:50,115 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='已得标']")
+2020-10-12 14:28:51,281 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:28:52,286 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:29:02,606 INFO BasePage.py find [42] 页面元素未找到,如图('id', 'rbtn_account')
+2020-10-12 14:29:40,234 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="36065409-fa9c-47cc-86e0-9a46f215357e")>
+2020-10-12 14:29:40,235 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:31:08,669 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d437544d-a44a-41f9-b87d-baa38944a045")>
+2020-10-12 14:31:08,671 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:31:13,701 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d437544d-a44a-41f9-b87d-baa38944a045")>
+2020-10-12 14:31:24,037 INFO BasePage.py elementExists [74] 判断元素是否存在：('id', 'm_back_btn')元素不存在，截图
+2020-10-12 14:31:24,857 INFO BasePage.py getDriver [26] driver 创建成功：<appium.webdriver.webdriver.WebDriver (session="d437544d-a44a-41f9-b87d-baa38944a045")>
+2020-10-12 14:31:24,859 INFO MinePage.py enterMyGet [58] 点击 我的 已得标
+2020-10-12 14:31:24,859 INFO BasePage.py find [39] 在页面查找元素:('xpath', "//*[@text='已得标']")
+2020-10-12 14:31:28,034 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:31:29,325 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:31:30,604 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:31:31,907 INFO BasePage.py swipes [91] 向下滑一次
+2020-10-12 14:31:35,816 INFO BasePage.py find [39] 在页面查找元素:('id', 'rbtn_account')
+2020-10-12 14:31:37,453 INFO BasePage.py find [39] 在页面查找元素:('id', 'm_tool_set_btn')
+2020-10-12 14:31:39,528 INFO BasePage.py swipes [82] 向上滑一次
+2020-10-12 14:31:40,715 INFO BasePage.py find [39] 在页面查找元素:('id', 'btn_logout_set')
+2020-10-12 14:31:40,894 INFO BasePage.py find [39] 在页面查找元素:('id', 'android:id/button1')
